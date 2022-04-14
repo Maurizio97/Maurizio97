@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Maurizio97
-- 👀 I’m interested in sport
-- 🌱 I’m currently learning how to do barman 
-- 💞️ I’m looking to collaborate on boolean 
-- 📫 How to reach me by email 
+Hi, I'm Maurizio,
+I'm still a novice developer but with a great desire to do and learn.
+Below you can find all the projects I have worked on (from the first day I put my hand to the code up to today).
 
 <!---
 Maurizio97/Maurizio97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
